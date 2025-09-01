@@ -31,16 +31,6 @@ Download the latest installer from [Releases](https://github.com/yourusername/co
 
 Example: Connect to a server, select a command category, click a button to send, view references.
 
-## Screenshots
-
-*(Add screenshots here, e.g., main interface, settings window)*
-
-![Main Interface](screenshots/main.png)
-
-## Contributing
-
-Contributions welcome! Fork the repo, create a branch, commit changes, and open a pull request.
-
 1. Report issues via [Issues](https://github.com/yourusername/command-forge/issues).
 2. For features/bugs: Describe the change, test locally.
 
