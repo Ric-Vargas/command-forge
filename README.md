@@ -40,4 +40,4 @@ This project is licensed under the MIT License—see [LICENSE](LICENSE) for deta
 
 ---
 
-Built with ❤️ by [Your Name]. For questions, contact [your.email@example.com].
+Built with ❤️ by Rick Vargas. For questions, contact Ric.Vargas00@gmail.com
